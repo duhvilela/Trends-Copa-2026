@@ -4,10 +4,12 @@
 
 🔥Tá afim de aprender a usar? Então se liga no passo a passo 👇
 
-1️⃣ Acesse o Google Flow <br/>
+1️⃣ Acesse o Google Flow crie uma conta com o Google se não tiver conta ainda .. <br/>
     [Google Flow] (https://labs.google/fx/pt/tools/flow/) <br/>
     
 2️⃣ Crie um novo projeto (New Project) <br/>
+<img width="500" height="221" alt="image" src="https://github.com/user-attachments/assets/04931855-07cb-4161-9e57-ec1638122ca2" /><br/>
+
 3️⃣ Suba seu vídeo de no máximo 10 segundos ou faça upload de uma imagem (Fazer upload de um vídeo ou imagem!) <br/>
 4️⃣ Cole o Prompt, arraste a imagem ou vídeo para dentro do campo texto, Clique no botão antes da SETA e Selecione o Omni Flash ⚡ <br/>
 
@@ -15,7 +17,8 @@ A) Clique no botão <br/>
 <img width="364" height="146" alt="image" src="https://github.com/user-attachments/assets/027e7117-97a5-462d-9ce3-a39ed9e471b2" /><br/>
 
 B) Escolha as opções: <br/> 
-C) Tempo,  geralmente para esse tipo de vídeo é entre 8s a 10s ,  sendo recomendado 10s,  (10s custa 15 créditos) 
+C) Tempo,  geralmente para esse tipo de vídeo é entre 8s a 10s ,  sendo recomendado de preferência 10s,  (10s custa 15 créditos) <br/> 
+D) Na imagem abaixo eu coloquei 8s , por que tem um custo de 12 créditos. <br/> No Plano Free,  você ganha até 100 créditos por mês para utilizar o Flow. <br/><br/>
 <img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/4aa99f8b-fa7e-410b-a0a2-6a629ae09c50" /><br/>
 
 <br/>
