@@ -16,7 +16,7 @@ Change the background to the person standing on the edge of a very tall skyscrap
 ```
 <br/><br/>
 
-### Prompt 2 -Camisa Azul brilhante - (Copie o Código)
+### Prompt 2 - Camisa Azul brilhante - (Copie o Código)
 ```
 Use the attached image as the basis for the model.
 Maintain 100% consistency between the character's face and the attached photo.
