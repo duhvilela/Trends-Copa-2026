@@ -30,7 +30,8 @@ Abra o arquivo **Prompt** que eu coloquei nesse mesmo projeto, para copiar o dei
 
 Confirmar os dados <br/>
 
-<img width="1471" height="902" alt="image" src="https://github.com/user-attachments/assets/23c8f010-1879-4ef6-860e-45805d282818" /> <br/>
+<img width="821" height="889" alt="image" src="https://github.com/user-attachments/assets/39a6a7da-ee7b-45f1-89c8-ec0dbfdfb9d8" />
+ <br/>
 
 
 6️⃣ Depois Clique em gerar/seta e pronto! <br/>
