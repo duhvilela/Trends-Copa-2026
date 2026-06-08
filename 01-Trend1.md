@@ -31,10 +31,9 @@ Abra o arquivo **Prompt** que eu coloquei nesse mesmo projeto, para copiar o dei
 Confirmar os dados <br/>
 
 <img width="821" height="889" alt="image" src="https://github.com/user-attachments/assets/39a6a7da-ee7b-45f1-89c8-ec0dbfdfb9d8" />
- <br/>
+ <br/><br/>
 
 
-6️⃣ Depois Clique em gerar/seta e pronto! <br/>
+6️⃣ Depois Clique em gerar/seta e pronto! <br/><br/>
 
-
-✅#edicao #turorial #nanobanana #gemini
+✅#edicao #turorial #nanobanana #gemini<br/><br/>
