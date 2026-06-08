@@ -1,4 +1,4 @@
-### Vídeo da Trend da Copa do Mundo - Hiper Realista utilizando o Google OMNI 
+### Vídeo da Trend da Copa do Mundo - utilizando o Google OMNI 
 <br/>
 🔷 A IA utilizada nesse vídeo foi o Google Omni, e tudo que você está vendo aqui veio direto dela. Não tem máscara, não tem truque de edição, e eu garanto pra você que, no momento, nenhuma outra ferramenta chega nesse resultado sem retoque. <br/><br/>
 
