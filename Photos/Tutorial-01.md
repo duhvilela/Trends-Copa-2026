@@ -28,3 +28,30 @@ Casual style mixed with a professional sports shirt, highly detailed and realist
 Change the background so the person is on the edge of a very tall skyscraper in downtown New York at night. He looks at the camera,
 The wide-angle camera captures a cinematic panoramic view of the city—streets illuminated with yellow taxis, bustling avenues, flashing neon lights, vibrant digital billboards, the Hudson River reflecting the city lights, and iconic bridges like the Brooklyn Bridge in the background. The camera's perspective is from above, and the 360° wide-angle lens effect creates a dramatic and immersive feel, highlighting the intense, pulsating, and majestic energy of the metropolis. A modern, electric, stylish, and cinematic urban atmosphere, with natural nighttime lighting and ultra-sharp details, as if it were a high-resolution DSLR photo. 4:3 landscape aspect ratio.
 ```
+<br/><br/>
+
+<img src="./007.png" width="100%" alt="Primeira imagem"><br/><br/>
+<img src="./008.png" width="100%" alt="Segunda imagem"><br/><br/>
+
+
+## THE END ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
