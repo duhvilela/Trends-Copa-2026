@@ -26,7 +26,7 @@ D) Na imagem abaixo eu coloquei 8s , por que tem um custo de 12 créditos. <br/>
 
 Abra o arquivo **Prompt** que eu coloquei nesse mesmo projeto, para copiar o deixei uma instrução lá, sobre como usar ou modificar o prompt. <br/>
 
-[ver prompt](./videos/02-prompt.md)  -- Clique no Link em azul <br/> 
+[ver prompt](../videos/02-Prompt.md)  -- Clique no Link em azul para abrir a página de Prompts <br/> 
 
 Confirmar os dados <br/>
 
