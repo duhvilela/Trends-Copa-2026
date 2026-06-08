@@ -1,8 +1,8 @@
 ### Vídeo da Trend da Copa do Mundo - Hiper Realista utilizando o Google OMNI 
+<br/>
+🔷 A IA utilizada nesse vídeo foi o Google Omni, e tudo que você está vendo aqui veio direto dela. Não tem máscara, não tem truque de edição, e eu garanto pra você que, no momento, nenhuma outra ferramenta chega nesse resultado sem retoque. <br/><br/>
 
-🔷 A IA utilizada nesse vídeo foi o Google Omni, e tudo que você está vendo aqui veio direto dela. Não tem máscara, não tem truque de edição, e eu garanto pra você que, no momento, nenhuma outra ferramenta chega nesse resultado sem retoque. 
-
-🔥Tá afim de aprender a usar? Então se liga no passo a passo 👇
+🔥Tá afim de aprender a usar? Então se liga no passo a passo 👇<br/>
 
 1️⃣ Acesse o Google Flow crie uma conta com o Google se não tiver conta ainda .. <br/>
     [Google Flow] (https://labs.google/fx/pt/tools/flow/) <br/>
