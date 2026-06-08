@@ -1,4 +1,5 @@
 ### Criando Imagens no Flow ou Gemini <br/>
+🔥Tá afim de aprender a usar? Então se liga no passo a passo 👇<br/>
 
 👉 Passo 1: Abra um gerador de imagens de sua preferência: "Gemini", "ChatGPT", "Flow" <br/>
 👉 Passo 2: Faça upload da sua melhor foto de preferência com "boa qualidade". <br/>
