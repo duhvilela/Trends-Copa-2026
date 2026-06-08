@@ -1,0 +1,36 @@
+### Como criar o Vídeo da Trend da Copa do Mundo - Hiper Realista utilizando o Google OMNI 
+
+🔷 A IA utilizada nesse vídeo foi o Google Omni, e tudo que você está vendo aqui veio direto dela. Não tem máscara, não tem truque de edição, e eu garanto pra você que, no momento, nenhuma outra ferramenta chega nesse resultado sem retoque. 
+
+🔥Tá afim de aprender a usar? Então se liga no passo a passo 👇
+
+1️⃣ Acesse o Google Flow <br/>
+    [Google Flow] (https://labs.google/fx/pt/tools/flow/) <br/>
+    
+2️⃣ Crie um novo projeto (New Project) <br/>
+3️⃣ Suba seu vídeo de no máximo 10 segundos ou faça upload de uma imagem (Fazer upload de um vídeo ou imagem!) <br/>
+4️⃣ Cole o Prompt, arraste a imagem ou vídeo para dentro do campo texto, Clique no botão antes da SETA e Selecione o Omni Flash ⚡ <br/>
+
+A) Clique no botão <br/>
+<img width="364" height="146" alt="image" src="https://github.com/user-attachments/assets/027e7117-97a5-462d-9ce3-a39ed9e471b2" /><br/>
+
+B) Escolha as opções: <br/> 
+C) Tempo,  geralmente para esse tipo de vídeo é entre 8s a 10s ,  sendo recomendado 10s,  (10s custa 15 créditos) 
+<img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/4aa99f8b-fa7e-410b-a0a2-6a629ae09c50" /><br/>
+
+<br/>
+5️⃣ Digite seu prompt de forma simples, pedindo a alteração ou adição que você quer no vídeo 👇 <br/>
+
+Abra o arquivo **Prompt** que eu coloquei nesse mesmo projeto, para copiar o deixei uma instrução lá, sobre como usar ou modificar o prompt. <br/>
+
+[Ver prompt](Prompt.md)  Clique no Link em azul <br/> 
+
+Confirmar os dados <br/>
+
+<img width="1471" height="902" alt="image" src="https://github.com/user-attachments/assets/23c8f010-1879-4ef6-860e-45805d282818" /> <br/>
+
+
+6️⃣ Depois Clique em gerar/seta e pronto! <br/>
+
+
+✅#edicao #turorial #nanobanana #gemini
